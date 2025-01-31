@@ -8,7 +8,7 @@ Olá!! Tudo bem?
  Me chamo Nichole Maria Furtado, tenho 20 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia de Software na Uniguaçu. Sou apaixonada por tecnologia desde de pequena, quando meu pai montava computadores na locadora que tinhamos, pode estar acessando o Linkedin  através do link"[ Nichole Furtado](https://www.linkedin.com/in/nichole-furtado/)",  onde postar visualizando minhas experiências profissionais. 
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://wa.me/<45991173930>">
         <img src="https://camo.githubusercontent.com/eadc21cda09422795fa0cab6b482d8a3817e73d62fe42cd09604d9ec904e26c0/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f2d3132332d2d3435362d2d373839302d6f72616e67653f7374796c653d666f722d7468652d6261646765266c6f676f3d70686f6e65266c6f676f436f6c6f723d7768697465" 
             alt="phone"
             data-canonical-src="https://custom-icon-badges.demolab.com/badge/-045--999117--3930-orange?style=for-the-badge&amp;logo=phone&amp;logoColor=white" 
