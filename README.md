@@ -5,7 +5,7 @@
 Olá!! Tudo bem?
  </a>
   
- Me chamo Nichole Maria Furtado, tenho 20 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia de Software na Uniguaçu. Sou apaixonada por tecnologia desde de pequena, quando meu pai montava computadores na locadora que tinhamos, pode estar acessando o Linkedin  através do link"[ Nichole Furtado](https://www.linkedin.com/in/nichole-furtado/)",  onde postar visualizando minhas experiências profissionais. 
+ Me chamo Nichole Maria Furtado, tenho 20 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia de Software na Uniguaçu. Sou apaixonada por tecnologia desde de pequena, quando meu pai montava computadores na locadora que tinhamos, pode estar acessando o Linkedin  através do link"[ Nichole Furtado](https://www.linkedin.com/in/nichole-furtado/)", visualizando minhas experiências profissionais. 
 
 <p align="left">
     <a href="https://wa.me/<45991173930>">
