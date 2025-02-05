@@ -106,3 +106,13 @@ Olá!! Tudo bem?
 
 ### 📊 Estatísticas
 
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nichole-Furtado&locale=pt-br&theme=dark)
+
+
+![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Nichole-Furtado&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=pt-br&theme=dark)
+
+
+
+
+
+
