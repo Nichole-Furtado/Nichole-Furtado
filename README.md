@@ -1,18 +1,25 @@
-# 👩🏻‍💻 Nichole Maria Furtado
+# 👩🏼‍💻 Nichole Maria Furtado
 
 **`Desenvolvedora FullStack (Iniciante)`**
 
 Olá!! Tudo bem?
  </a>
   
- Me chamo Nichole Maria Furtado, tenho 20 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia de Software na Uniguaçu 💻. Sou apaixonada por tecnologia desde de pequena, quando meu pai montava computadores na locadora que tinhamos, pode estar acessando o Linkedin  através do link"[ Nichole Furtado](https://www.linkedin.com/in/nichole-furtado/)", visualizando minhas experiências profissionais🚀. 
+ Me chamo Nichole, tenho 20 anos e sou natural do Paraná. Atualmente, estou cursando 
+ 
+ **Engenharia de Software na Uniguaçu FAESI (São Miguel do Iguaçu - PR) 💻**
+ 
+
+ Sou apaixonada por tecnologia desde nova, quando meu pai montava computadores na locadora que tinhamos e observava, pensando como cada peça montada, tinha sua própria função e importância.
+ 
+ Pode estar visualizando minhas redes, conhecendo um pouquinho sobre mim e visualizando algumas experiências profissionais também! 🚀 
 
 <div> 
- 
+  <a href="https://www.linkedin.com/in/nichole-furtado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:nicholefurtado7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/nichole.furtado/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me/1311102678587281509" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:nicholefurtado7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nichole-furtado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
   
 </div>
 
