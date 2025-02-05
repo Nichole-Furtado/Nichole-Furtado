@@ -7,7 +7,7 @@ Olá!! Tudo bem?
   
  Me chamo Nichole, tenho 20 anos e sou natural do Paraná. Atualmente, estou cursando 
  
- **Engenharia de Software na Uniguaçu FAESI (São Miguel do Iguaçu - PR) 💻**
+**Engenharia de Software na Uniguaçu FAESI (São Miguel do Iguaçu - PR) 💻**
  
 
  Sou apaixonada por tecnologia desde nova, quando meu pai montava computadores na locadora que tinhamos e observava, pensando como cada peça montada, tinha sua própria função e importância.
@@ -25,7 +25,8 @@ Olá!! Tudo bem?
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+
+# 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -104,13 +105,12 @@ Olá!! Tudo bem?
 
 
 
-### 📊 Estatísticas
+# 📊 Estatísticas
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nichole-Furtado&locale=pt-br&theme=dark)
-
-
-![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Nichole-Furtado&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=pt-br&theme=dark)
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nichole-Furtado&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=pt-br&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nichole-Furtado&locale=pt-br&theme=dark"/>
+</div>
 
 
 
