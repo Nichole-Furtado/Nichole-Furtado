@@ -106,7 +106,28 @@ Hoje, quero montar sistemas e experiências digitais que impactem positivamente 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 
-/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nichole-Furtado&locale=pt-br&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"/>
