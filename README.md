@@ -25,6 +25,7 @@ Sou uma entusiasta da tecnologia com 20 anos, estudante:
 **Engenharia de Software na Uniguaçu FAESI (São Miguel do Iguaçu - PR) 3º Período 💻**
 
 Apaixonada por tudo que envolve desenvolvimento e criatividade. Desde pequena me encantei por tecnologia, vendo meu pai montar computadores na nossa locadora 🎮📟. 
+
 Hoje, quero montar sistemas e experiências digitais que impactem positivamente a vida das pessoas 💡🌐.
 
  Pode estar visualizando minhas redes, conhecendo um pouquinho sobre mim e visualizando algumas experiências profissionais também! 🚀
@@ -103,6 +104,10 @@ Hoje, quero montar sistemas e experiências digitais que impactem positivamente 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+
+
+
+
 
 
 
