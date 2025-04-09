@@ -106,8 +106,11 @@ Hoje, quero montar sistemas e experiências digitais que impactem positivamente 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 
 
-<br>
-<br>
+
+
+
+
+
 
 
 <div align="center">
