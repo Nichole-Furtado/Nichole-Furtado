@@ -25,7 +25,7 @@ Sou uma entusiasta da tecnologia com 20 anos, estudante:
 **Engenharia de Software na Uniguaçu FAESI (São Miguel do Iguaçu - PR) 3º Período 💻**
 
 Apaixonada por tudo que envolve desenvolvimento e criatividade. <br>
-Desde pequena me encantei por tecnologia, vendo meu pai montar computadores na nossa locadora/lan house🎮📟 <br> (A famosa Paris Video de Matelândia). 
+Desde pequena me encantei por tecnologia, vendo meu pai montar computadores na nossa locadora/lan house🎮📟 <br> (A famosa "Paris Video" de Matelândia). 
 
 Hoje, quero montar sistemas e experiências digitais que impactem positivamente a vida das pessoas 💡🌐.
 
