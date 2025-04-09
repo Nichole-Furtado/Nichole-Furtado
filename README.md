@@ -1,6 +1,10 @@
 # 👩🏼‍💻 Nichole Maria Furtado
 
 **`Desenvolvedora (Iniciante)`**
+<div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150px">
+</div>
+
 
 ### Olá, pode me chamar de Nicole mesmo!😁
 
@@ -16,11 +20,12 @@
 
  Tenho 20 anos e sou natural do Paraná! 🧉
 
- Estou cursando o Bacharel,
+Sou uma entusiasta da tecnologia com 20 anos, estudante:
 
 **Engenharia de Software na Uniguaçu FAESI (São Miguel do Iguaçu - PR) 3º Período 💻**
 
- Sou apaixonada por tecnologia desde nova, quando meu pai montava computadores na locadora que tinhamos e observava, pensando como cada peça montada, tinha sua própria função e importância.
+Apaixonada por tudo que envolve desenvolvimento e criatividade. Desde pequena me encantei por tecnologia, vendo meu pai montar computadores na nossa locadora 🎮📟. 
+Hoje, quero montar sistemas e experiências digitais que impactem positivamente a vida das pessoas 💡🌐.
 
  Pode estar visualizando minhas redes, conhecendo um pouquinho sobre mim e visualizando algumas experiências profissionais também! 🚀
 
