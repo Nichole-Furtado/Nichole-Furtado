@@ -1,6 +1,6 @@
 # 👩🏼‍💻 Nichole Maria Furtado
 
-**`Desenvolvedora FullStack (Iniciante)`**
+**`Desenvolvedora(Iniciante)`**
 
 Olá!! Tudo bem?
  </a>
