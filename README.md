@@ -32,7 +32,7 @@ Hoje, quero montar sistemas e experiências digitais que impactem positivamente 
  Pode estar visualizando minhas redes, conhecendo um pouquinho sobre mim e visualizando algumas experiências profissionais também! 🚀
 
 # 🤖 Linguagens e Tecnologias
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px">
+
 <img 
     align="left" 
     alt="HTML"
@@ -110,5 +110,6 @@ Hoje, quero montar sistemas e experiências digitais que impactem positivamente 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nichole-Furtado&locale=pt-br&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"/>
 
-  
+
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px">
 </div>
