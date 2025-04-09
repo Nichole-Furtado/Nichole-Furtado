@@ -113,6 +113,6 @@ Hoje, quero montar sistemas e experiências digitais que impactem positivamente 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
      alt="ilustração de um computador" 
-     width="400px" 
-     style="float: right; margin: 20px;">
+     width="200px" 
+     style="float: right; margin: 10px;">
 
