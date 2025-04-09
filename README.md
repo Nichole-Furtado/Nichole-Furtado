@@ -107,11 +107,8 @@ Hoje, quero montar sistemas e experiências digitais que impactem positivamente 
 />
 
 ---
-<div style="text-align: center;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nichole-Furtado&locale=pt-br&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"/>
-</div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-     alt="ilustração de um computador" 
-     width="400px" 
-     style="position: absolute; top: 100px; right: 0; margin: 20px;">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="300px">
+</div>
