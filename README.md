@@ -1,33 +1,32 @@
 # 👩🏼‍💻 Nichole Maria Furtado
 
-**`Desenvolvedora(Iniciante)`**
+**`Desenvolvedora (Iniciante)`**
 
-Olá!! Tudo bem?
- </a>
-  
- Me chamo Nichole, tenho 20 anos e sou natural do Paraná. Atualmente, estou cursando 
- 
-**Engenharia de Software na Uniguaçu FAESI (São Miguel do Iguaçu - PR) 💻**
- 
-
- Sou apaixonada por tecnologia desde nova, quando meu pai montava computadores na locadora que tinhamos e observava, pensando como cada peça montada, tinha sua própria função e importância.
- 
- Pode estar visualizando minhas redes, conhecendo um pouquinho sobre mim e visualizando algumas experiências profissionais também! 🚀 
+### Olá, meu nome é, mas pode me chamar de Nicole!😁
 
 <div> 
   <a href="https://www.linkedin.com/in/nichole-furtado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:nicholefurtado7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/nichole.furtado/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me/1311102678587281509" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
-  
-</div>
+ <a href="https://discord.com/channels/@me/1311102678587281509" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 ---
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Nichole-Furtado&locale=pt-br&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+
+ Tenho 20 anos e sou natural do Paraná! 🧉
+
+ Estou cursando Bacharel,
+
+**Engenharia de Software na Uniguaçu FAESI (São Miguel do Iguaçu - PR) 3º Período 💻**
+
+ Sou apaixonada por tecnologia desde nova, quando meu pai montava computadores na locadora que tinhamos e observava, pensando como cada peça montada, tinha sua própria função e importância.
+
+ Pode estar visualizando minhas redes, conhecendo um pouquinho sobre mim e visualizando algumas experiências profissionais também! 🚀
 
 # 🤖 Linguagens e Tecnologias
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <img 
     align="left" 
     alt="HTML"
@@ -98,21 +97,11 @@ Olá!! Tudo bem?
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+
 />
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-
-
-
-# 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nichole-Furtado&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=pt-br&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nichole-Furtado&locale=pt-br&theme=dark"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nichole-Furtado&locale=pt-br&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"/>
 </div>
-
-
-
-
-
