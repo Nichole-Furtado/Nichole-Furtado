@@ -16,7 +16,7 @@
 
  Tenho 20 anos e sou natural do Paraná! 🧉
 
- Estou cursando Bacharel,
+ Estou cursando o Bacharel,
 
 **Engenharia de Software na Uniguaçu FAESI (São Miguel do Iguaçu - PR) 3º Período 💻**
 
