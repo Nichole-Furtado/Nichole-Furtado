@@ -32,7 +32,7 @@ Hoje, quero montar sistemas e experiências digitais que impactem positivamente 
  Pode estar visualizando minhas redes, conhecendo um pouquinho sobre mim e visualizando algumas experiências profissionais também! 🚀
 
 # 🤖 Linguagens e Tecnologias
-
+---
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <img 
     align="left" 
@@ -105,7 +105,6 @@ Hoje, quero montar sistemas e experiências digitais que impactem positivamente 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-
 
 
 ---
