@@ -2,7 +2,7 @@
 
 **`Desenvolvedora (Iniciante)`**
 
-### Olá, meu nome é, mas pode me chamar de Nicole!😁
+### Olá, pode me chamar de Nicole mesmo!😁
 
 <div> 
   <a href="https://www.linkedin.com/in/nichole-furtado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
