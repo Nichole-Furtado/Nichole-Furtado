@@ -1,6 +1,17 @@
 # 👩🏼‍💻 Nichole Maria Furtado
 
 **`Desenvolvedora (Iniciante)`**
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
 <div align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150px">
 </div>
