@@ -16,9 +16,6 @@
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150px">
 </div>
 
-
-### Olá, pode me chamar de Nicole mesmo!😁
-
 <div> 
   <a href="https://www.linkedin.com/in/nichole-furtado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:nicholefurtado7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
