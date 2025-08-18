@@ -2,95 +2,63 @@
 
 **`Desenvolvedora (Iniciante)`**
 
-###
-
-<br clear="both">
+---
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
+---
+
+## 🌟 Sobre mim  
+
+Tenho 20 anos, natural do Paraná 🧉 e atualmente curso **Engenharia de Software na Uniguaçu FAESI (São Miguel do Iguaçu - PR)**, 3º período.  
+
+Desde pequena me encantei pela tecnologia observando meu pai montar computadores na nossa locadora/lan house 🎮📟 (“Paris Video” de Matelândia).  
+
+Hoje, busco criar sistemas e experiências digitais que impactem positivamente a vida das pessoas 💡🌐.  
+
+---
+
+## 🌍 Conecte-se comigo  
+
+<p>
+  <a href="https://www.linkedin.com/in/nichole-furtado/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:nicholefurtado7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/nichole.furtado/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://discord.com/channels/@me/1311102678587281509" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🤖 Linguagens e Tecnologias  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nichole-Furtado&locale=pt-br&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nichole-Furtado&locale=pt-br&layout=compact&title_color=783c00&text_color=af552e&bg_color=f8efd4"/>
+</p>
 
 
+---
 
-<div align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150px">
-</div>
-
-<div> 
-  <a href="https://www.linkedin.com/in/nichole-furtado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:nicholefurtado7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/nichole.furtado/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me/1311102678587281509" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-
----
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Nichole-Furtado&locale=pt-br&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
-
- Tenho 20 anos e sou natural do Paraná! 🧉
-
-Sou uma entusiasta da tecnologia com 20 anos, estudante:
-
-**Engenharia de Software na Uniguaçu FAESI (São Miguel do Iguaçu - PR) 3º Período 💻**
-
-Apaixonada por tudo que envolve desenvolvimento e criatividade. <br>
-Desde pequena me encantei por tecnologia, vendo meu pai montar computadores na nossa locadora/lan house🎮📟 <br> (A famosa "Paris Video" de Matelândia). 
-
-Hoje, quero montar sistemas e experiências digitais que impactem positivamente a vida das pessoas 💡🌐.
-
- Pode estar visualizando minhas redes, conhecendo um pouquinho sobre mim e visualizando algumas experiências profissionais também! 🚀
-
-# 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-
----
-
-  <tr>
-    <td>
-      <img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nichole-Furtado&locale=pt-br&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"/>
-    </td>
-    <td align="right">
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="450px">
-    </td>
-  </tr>
-
+</p>
