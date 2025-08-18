@@ -4,7 +4,7 @@
 
 ---
 
-(https://github.com/Nichole-Furtado/Nichole-Furtado/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<img src="https://raw.githubusercontent.com/Nichole-Furtado/Nichole-Furtado/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 
 ---
 
