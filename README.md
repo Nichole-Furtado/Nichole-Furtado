@@ -3,6 +3,7 @@
 **`Desenvolvedora (Iniciante)`**
 
 ---
+## Commits
 
 <img src="https://raw.githubusercontent.com/Nichole-Furtado/Nichole-Furtado/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 
