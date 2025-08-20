@@ -65,14 +65,4 @@ Hoje, busco criar sistemas e experiências digitais que impactem positivamente a
 
 ### 🥉 Studying stack
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
----
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhza&theme=cyber-streakglow&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
-<!-- </div> -->
-
-<br>
-<br>
