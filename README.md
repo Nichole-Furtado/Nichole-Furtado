@@ -1,6 +1,6 @@
 # 👩🏼‍💻 Nichole Maria Furtado
 
-**`Desenvolvedora (Iniciante)`**
+**`Desenvolvedora`**
 
 ---
 ## Commits
