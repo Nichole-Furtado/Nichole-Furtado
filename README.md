@@ -17,7 +17,7 @@
 
 ## 🌟 Sobre mim
 
-- 🎓 Cursando **Engenharia de Software**
+- 🎓 Cursando **Engenharia de Software** na **Uniguaçu FAESI** (São Miguel do Iguaçu - PR), 3º período
 - 🧉 20 anos, natural do **Paraná**
 - 💡 Apaixonada por tecnologia desde criança, observando meu pai montar PCs na nossa lan house *"Paris Video"* (Matelândia)
 - 🚀 Busco criar sistemas e experiências digitais que impactem positivamente a vida das pessoas
@@ -38,6 +38,8 @@
 
 ## 📈 Histórico de Contribuições
 
+> Cada quadrado representa um dia de atividade. Quanto mais escuro, mais commits naquele dia — um registro visual da jornada de aprendizado ao longo do tempo.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nichole-Furtado/Nichole-Furtado/output/github-contribution-grid-snake-dark.svg" alt="Contribuições ao longo do tempo">
 </p>
@@ -47,13 +49,13 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nichole-Furtado&locale=pt-br&show_icons=true&include_all_commits=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&border_color=783c00&hide_border=false&cache_seconds=1800"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nichole-Furtado&locale=pt-br&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&border_color=783c00"/>
+  &nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nichole-Furtado&locale=pt-br&layout=compact&langs_count=8&title_color=783c00&text_color=af552e&bg_color=f8efd4&border_color=783c00"/>
 </p>
 
 <p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com/?user=Nichole-Furtado&locale=pt_BR&background=f8efd4&border=783c00&stroke=783c00&ring=783c00&fire=af552e&currStreakLabel=783c00&currStreakNum=af552e&sideNums=af552e&dates=783c00&sideLabels=783c00&hide_border=false"/>
-  &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nichole-Furtado&locale=pt-br&layout=compact&langs_count=8&title_color=783c00&text_color=af552e&bg_color=f8efd4&border_color=783c00&cache_seconds=1800"/>
+  <img src="https://streak-stats.demolab.com/?user=Nichole-Furtado&locale=pt_BR&background=f8efd4&border=783c00&stroke=783c00&ring=783c00&fire=af552e&currStreakLabel=783c00&currStreakNum=af552e&sideNums=af552e&dates=783c00&sideLabels=783c00"/>
 </p>
 
 ---
