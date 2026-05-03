@@ -31,7 +31,7 @@
 ### 🌟 Sobre mim
 
 Sou **Nichole Furtado**, 20 anos, de **Matelândia – PR**, atualmente em **São Miguel do Iguaçu – PR**.
-Curso **Engenharia de Software** na **Uniguaçu FAESI**, 3º período, com foco em desenvolvimento backend e boas práticas de engenharia.
+Curso **Engenharia de Software**, com foco em desenvolvimento backend e boas práticas de engenharia.
 
 Minha paixão por tecnologia começou observando meu pai montar computadores e administrar a nossa lan house *"Paris Video"* — um ambiente que despertou em mim a curiosidade de entender como as coisas funcionam por dentro.
 
@@ -43,9 +43,9 @@ Hoje desenvolvo projetos que combinam **Java + Spring Boot** com automação int
 
 ### 🎓 Formação
 
-| Curso | Instituição | Período |
+| Curso | Período |
 |-------|------------|---------|
-| Engenharia de Software | Uniguaçu FAESI — São Miguel do Iguaçu, PR | 2024 – cursando (3º período) |
+| Engenharia de Software | 2024 – cursando |
 
 ---
 
@@ -91,18 +91,6 @@ Hoje desenvolvo projetos que combinam **Java + Spring Boot** com automação int
 | **Criatividade** | Une estética e funcionalidade em interfaces e soluções de produto |
 
 </div>
-
----
-
-### 📌 Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/Nichole-Furtado/promobot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nichole-Furtado&repo=promobot&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&border_color=783c00" alt="PromoBot"/>
-  </a>
-</p>
-
-> Adicione outros repositórios substituindo `repo=promobot` pelo nome do projeto.
 
 ---
 
@@ -175,11 +163,11 @@ Hoje desenvolvo projetos que combinam **Java + Spring Boot** com automação int
 ### 🌟 About me
 
 I'm **Nichole Furtado**, 20 years old, from **Matelândia, Paraná — Brazil**, currently living in **São Miguel do Iguaçu, PR**.
-I study **Software Engineering** at **Uniguaçu FAESI** (3rd semester), focused on backend development and software engineering best practices.
+I study **Software Engineering**, focused on backend development and software engineering best practices.
 
 My passion for technology started early — watching my father assemble computers and run our family lan house *"Paris Video"* sparked a deep curiosity about how things work under the hood.
 
-Today I build projects combining **Java + Spring Boot** with intelligent automation, always focused on clean code, SOLID principles, and delivering real value.
+Today I build projects with intelligent automation, always focused on clean code, SOLID principles, and delivering real value.
 
 > **Goal:** Strengthen backend and distributed systems experience, contributing to agile squads on products with real impact.
 
@@ -187,9 +175,9 @@ Today I build projects combining **Java + Spring Boot** with intelligent automat
 
 ### 🎓 Education
 
-| Degree | Institution | Period |
+| Degree | Period |
 |--------|------------|--------|
-| Software Engineering | Uniguaçu FAESI — São Miguel do Iguaçu, PR | 2024 – ongoing (3rd semester) |
+| Software Engineering | 2024 – ongoing|
 
 ---
 
