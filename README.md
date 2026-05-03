@@ -19,24 +19,27 @@
 
 - 🎓 Cursando **Engenharia de Software**
 - 🧉 20 anos, natural do **Paraná**
-- 💡 Apaixonada por tecnologia desde criança, observando meu pai montar PCs na nossa lan house *“Paris Video”* (Matelândia)
+- 💡 Apaixonada por tecnologia desde criança, observando meu pai montar PCs na nossa lan house *"Paris Video"* (Matelândia)
 - 🚀 Busco criar sistemas e experiências digitais que impactem positivamente a vida das pessoas
-- 📚 Atualmente estudando: **Java**, **Spring Boot**, **bancos de dados relacionais**
+- 📚 Atualmente estudando: **Java**, **Spring Boot**, **Docker**, **bancos de dados relacionais**
 
 ---
 
 ## 🤖 Linguagens & Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,mysql,postgres&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,spring,docker,oracle,git,github,vscode,mysql,postgres&perline=13" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java%20Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java Swing"/>
 </p>
 
 ---
 
-## 🐍 Snake eating my contributions
+## 📈 Histórico de Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nichole-Furtado/Nichole-Furtado/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/Nichole-Furtado/Nichole-Furtado/output/github-contribution-grid-snake-dark.svg" alt="Contribuições ao longo do tempo">
 </p>
 
 ---
@@ -44,12 +47,13 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nichole-Furtado&locale=pt-br&show_icons=true&count_private=true&include_all_commits=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&border_color=783c00"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nichole-Furtado&locale=pt_BR&theme=default&background=f8efd4&border=783c00&stroke=783c00&ring=783c00&fire=af552e&currStreakLabel=783c00&currStreakNum=af552e&sideNums=af552e&dates=783c00&sideLabels=783c00"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nichole-Furtado&locale=pt-br&show_icons=true&include_all_commits=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&border_color=783c00&hide_border=false&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nichole-Furtado&locale=pt-br&layout=compact&langs_count=8&title_color=783c00&text_color=af552e&bg_color=f8efd4&border_color=783c00"/>
+  <img height="170em" src="https://streak-stats.demolab.com/?user=Nichole-Furtado&locale=pt_BR&background=f8efd4&border=783c00&stroke=783c00&ring=783c00&fire=af552e&currStreakLabel=783c00&currStreakNum=af552e&sideNums=af552e&dates=783c00&sideLabels=783c00&hide_border=false"/>
+  &nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nichole-Furtado&locale=pt-br&layout=compact&langs_count=8&title_color=783c00&text_color=af552e&bg_color=f8efd4&border_color=783c00&cache_seconds=1800"/>
 </p>
 
 ---
@@ -65,18 +69,8 @@
 ## 📈 Gráfico de atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nichole-Furtado&bg_color=f8efd4&color=783c00&line=af552e&point=783c00&area=true&hide_border=true&custom_title=Atividade%20de%20commits%20no%20último%20ano" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nichole-Furtado&bg_color=f8efd4&color=783c00&line=af552e&point=783c00&area=true&hide_border=true&custom_title=Atividade%20de%20commits%20no%20último%20ano" alt="Gráfico de atividade"/>
 </p>
-
----
-
-## 📌 Métricas adicionais
-
-<p align="center">
-  <img src="https://wakatime.com/share/@Nichole-Furtado/placeholder.svg" alt="wakatime (opcional)" />
-</p>
-
-> 💡 Para ativar o gráfico de tempo de codificação, conecte sua conta no [WakaTime](https://wakatime.com/) e substitua o link acima.
 
 ---
 
@@ -84,4 +78,4 @@
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150px">
 </p>
 
-<p align="center"><i>“Construir software é construir possibilidades.”</i></p>
+<p align="center"><i>"Construir software é construir possibilidades."</i></p>
