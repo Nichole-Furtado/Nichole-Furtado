@@ -30,7 +30,7 @@
 
 ### 🌟 Sobre mim
 
-Sou **Nichole Furtado**, 20 anos, de **Matelândia – PR**, atualmente em **São Miguel do Iguaçu – PR**.
+Sou **Nichole Furtado**, 21 anos, de **Matelândia – PR**, atualmente em **São Miguel do Iguaçu – PR**.
 Curso **Engenharia de Software**, com foco em desenvolvimento backend e boas práticas de engenharia.
 
 Minha paixão por tecnologia começou observando meu pai montar computadores e administrar a nossa lan house *"Paris Video"* — um ambiente que despertou em mim a curiosidade de entender como as coisas funcionam por dentro.
